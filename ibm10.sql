@@ -2,7 +2,7 @@
 -- ER/Studio Data Architect SQL Code Generation
 -- Project :      Ibm10_datatypes.DM1
 --
--- Date Created : Friday, October 02, 2026 05:34:16
+-- Date Created : Friday, October 02, 2026 05:50:26
 -- Target DBMS : IBM Db2 for LUW 10.x
 --
 
